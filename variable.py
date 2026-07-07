@@ -4,4 +4,5 @@ a = b = c = d = "Vijay"
 
 student_name , age , city , marks = "vivek", 20, 85 ,'rajkot'
 
-print(city)
+
+name = 'this is name variable'
